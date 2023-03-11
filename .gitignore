@@ -39,4 +39,4 @@ thumbs.db
 node_modules/
 
 # ignore virtual environments
-**/**/venv/
+venv/
